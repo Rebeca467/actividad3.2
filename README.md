@@ -4,9 +4,13 @@
 ### ***This repo includes some Java basics programs.***
 
 #### 1. _Fabonnaci Series_
+sin modificaciones
 #### 2. _Find Number Game_
-#### 3. _Temperature Converter_
+sin modificaciones
+#### 3. _Conversor de temperaturas_
+traducido a español
 #### 4. _Tip Calculator_
+sin  modificaciones
 
 
 ### *TOOLS and LANGUAGES* 
